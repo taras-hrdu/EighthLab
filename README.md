@@ -1,4 +1,4 @@
-# EighthLab
+# NinthLab
 My ninth  Lab and third on Java
 My third lab in Java 
 If you want to launch the program, follow instruction:
