@@ -1,4 +1,4 @@
-# NinthLab
+# Tenth Lab
 My tenth  Lab 
 My fourth lab in Java 
 If you want to launch the program, follow instruction:
